@@ -1,7 +1,6 @@
 body{
 background-color:#f4f4f4;
 font-family: Arial, sans-serif;
-text-align:center;
 margin:0;
 }
 
@@ -50,8 +49,10 @@ background:#ecf0f1;
 .contenedor-servicios{
 display:flex;
 justify-content:center;
-gap:20px;
+align-items:center;
+gap:30px;
 margin-top:20px;
+flex-wrap:wrap;
 }
 
 .servicio{
