@@ -213,3 +213,26 @@ transform:translateY(0);
 color:#27ae60;
 margin-bottom:15px;
 }
+/* Sección Nosotros */
+
+/* Sección Nosotros */
+
+.nosotros{
+padding:60px 20px;
+background:white;
+text-align:center;
+}
+
+.nosotros h2{
+color:#27ae60;
+margin-bottom:20px;
+text-align:center;
+}
+
+.nosotros p{
+max-width:800px;
+margin:15px auto;
+font-size:18px;
+line-height:1.6;
+text-align:center;
+}
