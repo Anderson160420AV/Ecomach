@@ -56,7 +56,14 @@ font-weight:bold;
 
 .bienvenida{
 text-align:center;
-padding:40px;
+padding:40px 20px;
+}
+
+.bienvenida p{
+max-width:800px;
+margin:auto;
+font-size:18px;
+line-height:1.6;
 }
 
 .servicios{
