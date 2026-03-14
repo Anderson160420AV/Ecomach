@@ -210,3 +210,38 @@ transition: transform 0.3s;
 transform: scale(1.1);
 background:#20b954;
 }
+.galeria{
+padding:50px;
+text-align:center;
+background:#f4f4f4;
+}
+
+.galeria h2{
+margin-bottom:30px;
+}
+
+.galeria-contenedor{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+}
+
+.proyecto{
+width:300px;
+background:white;
+border-radius:10px;
+overflow:hidden;
+box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+.proyecto img{
+width:100%;
+height:200px;
+object-fit:cover;
+}
+
+.proyecto p{
+padding:15px;
+font-weight:bold;
+}
