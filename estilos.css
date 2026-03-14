@@ -12,8 +12,7 @@ margin-top:40px;
 p{
 font-size:18px;
 color:#333;
-width:60%;
-margin:20px auto;
+margin:20px 0;
 }
 
 /* Encabezado */
@@ -44,6 +43,7 @@ color:yellow;
 .servicios{
 padding:40px;
 background:#ecf0f1;
+text-align:center;
 }
 
 .contenedor-servicios{
